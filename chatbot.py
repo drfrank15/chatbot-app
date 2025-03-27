@@ -110,6 +110,7 @@ questions = [
     "What are some tips for reducing waste?",
     "How do I choose a good wine?",
     "What’s the future of renewable energy?"
+    "What’s year will the world end?"
 ]
 
 # Verify we have 100 questions
