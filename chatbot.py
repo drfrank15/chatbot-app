@@ -11,7 +11,7 @@ HEADERS = {
 
 # List of 100 unique questions
 questions = [
-    "What's the best way to learn programming?",
+    "Is life fair?",
     "How does quantum computing work?",
     "What are some healthy breakfast ideas?",
     "Can you explain blockchain technology?",
